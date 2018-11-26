@@ -7,6 +7,8 @@ import android.widget.Button;
 public class MainActivity extends AppCompatActivity {
 
     public static int REQUEST_CODE_FAB = 1000;
+    public static int REQUEST_CODE_FAB = 10;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
